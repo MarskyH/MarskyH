@@ -8,9 +8,9 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
 **🧠"Faça ou não faça. A tentativa não existe."🧠**
 
- - ⚙️ Aluno da **Digital House BR**
- - ⚙️ Futuro **Desenvolverdor Mobile Android**
- - 🔍 Estudando **Kotlin, Java, Python.**
+ - ⚙️ Ex-Aluno da **Digital House BR**
+ - ⚙️ Atual **Desenvolverdor Mobile Android**
+ - 🔍 Estudando **Kotlin, Java, Python, Ruby.**
  - 📝 Entusiasta de Games, Séries, Filmes e logicamente por **Tecnologia**
 
 
