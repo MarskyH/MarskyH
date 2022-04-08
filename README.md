@@ -10,7 +10,7 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
  - ⚙️ Ex-Aluno da **Digital House BR**
  - ⚙️ Atual **Desenvolverdor Mobile Android**
- - 🔍 Estudando **Kotlin, Java, Python, Ruby.**
+ - 🔍 Estudando **Kotlin, Python, JavaScript, CSS, HTML, React Native.**
  - 📝 Entusiasta de Games, Séries, Filmes e logicamente por **Tecnologia**
 
 
