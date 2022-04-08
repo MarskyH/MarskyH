@@ -10,11 +10,10 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
  - ⚙️ Ex-Aluno da **Digital House BR**
  - ⚙️ Atual **Desenvolverdor Mobile Android**
- - 🔍 Estudando **Kotlin, Python, JavaScript, CSS, HTML, React Native.**
+ - 🔍 Estudando: **Kotlin, Python, JavaScript, CSS, HTML, React Native.**
  - 📝 Entusiasta de Games, Séries, Filmes e logicamente por **Tecnologia**
 
 
-![enter image description here](https://antoniaspagnardi.files.wordpress.com/2017/04/1358946.gif)
-
-
+![MarcusLoureiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusLoureiro&show_icons=true&hide_rank=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLoureiro&layout=compact&show_icons=true&theme=radical)
 
