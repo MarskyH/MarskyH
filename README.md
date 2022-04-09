@@ -16,6 +16,8 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<img src="https://github.com/MarcusLoureiro/MarcusLoureiro/blob/master/assets/header-space.png?raw=true"/>
+
 <!-- Stats -->
 <div>
   <a href="https://github.com/MarcusLoureiro">
@@ -23,7 +25,7 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MarcusLoureiro&layout=compact&show_icons=true&theme=radical"/>
 <div
 
-<img src="https://drive.google.com/file/d/1GMHTAlE09MY3S8vClPvR8jFTb007hYA8/view" width="128"/>
+<img src="https://github.com/MarcusLoureiro/MarcusLoureiro/blob/master/assets/banner-sp-projetos.png?raw=true"/>
      
 <div>
   <a href="https://github.com/MarcusLoureiro">
