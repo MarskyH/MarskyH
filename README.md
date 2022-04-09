@@ -18,19 +18,19 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
 <img src="https://github.com/MarcusLoureiro/MarcusLoureiro/blob/master/assets/header-space.png?raw=true"/>
 
+
 <!-- Stats -->
 <div>
   <a href="https://github.com/MarcusLoureiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusLoureiro&show_icons=true&hide_rank=true&theme=radical"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MarcusLoureiro&layout=compact&show_icons=true&theme=radical"/>
-<div
+<div/>
 
-<img src="https://github.com/MarcusLoureiro/MarcusLoureiro/blob/master/assets/banner-sp-projetos.png?raw=true"/>
-     
+<img src="https://github.com/MarcusLoureiro/MarcusLoureiro/blob/master/assets/banner-sp-projetos.png?raw=true"/> 
+
 <div>
   <a href="https://github.com/MarcusLoureiro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=PsicoInfo.github.io"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=Filmapp"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=DataBook"/>
-<div
-
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=PsicoInfo.github.io"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=Filmapp"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusLoureiro&theme=radical&repo=DataBook"/>
+<div/>
