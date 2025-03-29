@@ -32,9 +32,9 @@ My name is **Marcus Loureiro**, I am from the largest country in South America, 
 
 <div>
   <a href="https://github.com/MarskyH">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarskyH&theme=radical&repo=DesafioW3"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarskyH&theme=radical&repo=itera"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarskyH&theme=radical&repo=Filmapp"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarskyH&theme=radical&repo=DataBook"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarskyH&theme=radical&repo=DesafioW3"/>
 </div>
 
 <div>
